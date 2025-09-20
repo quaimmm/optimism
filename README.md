@@ -30,12 +30,12 @@
 
 [Optimism](https://www.optimism.io/) is a project dedicated to scaling Ethereum's technology and expanding its ability to coordinate people from across the world to build effective decentralized economies and governance systems. The [Optimism Collective](https://www.optimism.io/vision) builds open-source software that powers scalable blockchains and aims to address key governance and economic challenges in the wider Ethereum ecosystem. Optimism operates on the principle of **impact=profit**, the idea that individuals who positively impact the Collective should be proportionally rewarded with profit. **Change the incentives and you change the world.**
 
-In this repository you'll find numerous core components of the OP Stack, the decentralized software stack maintained by the Optimism Collective that powers Optimism and forms the backbone of blockchains like [OP Mainnet](https://explorer.optimism.io/) and [Base](https://base.org). The OP Stack is designed to be aggressively open-source — you are welcome to explore, modify, and extend this code.
+In this repository, you'll find numerous core components of the OP Stack, the decentralized software stack maintained by the Optimism Collective that powers Optimism and forms the backbone of blockchains like [OP Mainnet](https://explorer.optimism.io/) and [Base](https://base.org). The OP Stack is designed to be aggressively open-source — you are welcome to explore, modify, and extend this code.
 
 ## Documentation
 
 - If you want to build on top of OP Mainnet, refer to the [Optimism Documentation](https://docs.optimism.io)
-- If you want to build your own OP Stack based blockchain, refer to the [OP Stack Guide](https://docs.optimism.io/stack/getting-started) and make sure to understand this repository's [Development and Release Process](#development-and-release-process)
+- If you want to build your own OP Stack-based blockchain, refer to the [OP Stack Guide](https://docs.optimism.io/stack/getting-started) and make sure to understand this repository's [Development and Release Process](#development-and-release-process)
 
 ## Specification
 
@@ -52,7 +52,7 @@ The OP Stack is a collaborative project. By collaborating on free, open software
 
 [CONTRIBUTING.md](./CONTRIBUTING.md) contains a detailed explanation of the contributing process for this repository. Make sure to use the [Developer Quick Start](./CONTRIBUTING.md#development-quick-start) to properly set up your development environment.
 
-[Good First Issues](https://github.com/ethereum-optimism/optimism/issues?q=is:open+is:issue+label:D-good-first-issue) are a great place to look for tasks to tackle if you're not sure where to start, and see [CONTRIBUTING.md](./CONTRIBUTING.md) for info on larger projects.
+[Good First Issues](https://github.com/ethereum-optimism/optimism/issues?q=is:open+is:issue+label:D-good-first-issue) are a great place to look for tasks to tackle if you're not sure where to start, and see [CONTRIBUTING.md](./CONTRIBUTING.md) for information on larger projects.
 
 ## Security Policy and Vulnerability Reporting
 
